@@ -1,5 +1,5 @@
 .background{
-
+    width: 100%;
 	width: 1366px;
 	height: 324px;
 	background-image: url(../img/bg.png);
@@ -29,6 +29,12 @@
 
 
 }
+.burger-icon{
+	display: none;
+	color: white;
+	font-size: 50px;
+	padding-top: 15px;
+}
 .blue{
 
 	color: #5863F8;
@@ -44,6 +50,7 @@
 
 }
 .left-block{
+	width: 100%;
 	float: left;
 	width: 444px;
 	margin-left: 139px;
@@ -93,7 +100,12 @@
 	height: 50px;
 	background-color: #5863F8;
 }
+.sec-block{
+	width: 1366px;
+	height: 551px;
+}
 .right-block{
+	
 	margin-top: 90px;
 	margin-left: 108px;
 	float: left;
@@ -110,4 +122,118 @@
 }
 .img3{
 
+}
+.background2{
+	background-image: url(../img/bg2.png);
+	width: 1366px;
+	height: 612px;
+	margin-top: 90px;
+	
+}
+
+.about-us2{
+	font-family: 'Poppins', sans-serif;
+	padding-top: 92px;
+	padding-left: 139px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.white{
+	color: #ffffff;
+	width: 376px;
+	margin-left: 139px;
+}
+.blocks{
+     margin-left: 139px;
+	display: flex;
+
+}
+.part1{
+	display: flex;
+
+}
+.block1{
+	margin-left: 16px;
+	width: 260px;
+	height: 260px;
+	background-color: #ffffff;
+}
+.img{
+	padding-top: 27px;
+	padding-left: 101px;
+}
+.para{
+	margin-top: 15px;
+	margin-left: 88px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+
 }	
+.para2{
+	margin-top: 5px;
+	margin-left: 47px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para3{
+	color: #B1B1B1;
+	width: 221px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.para1-2{
+	margin-top: 15px;
+	margin-left: 50px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para2-2{
+	margin-top: 5px;
+	margin-left: 60px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para1-3{
+	margin-top: 15px;
+	margin-left: 52px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para2-3{
+	margin-top: 5px;
+	margin-left: 69px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para1-4{
+	margin-top: 15px;
+	margin-left: 57px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.para2-4{
+	margin-top: 5px;
+	margin-left: 36px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 30px;
+}
